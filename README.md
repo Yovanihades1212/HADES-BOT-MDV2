@@ -72,6 +72,6 @@ excesivamente lento (depende del
 
 
 
-https://raw.githubusercontent.com/Yovanihades1212/HADES-BOT-MDV2/main/src/sinfoto.jpg
+
 `YOVANI___HADES-BOT-MD"` 
 ```
