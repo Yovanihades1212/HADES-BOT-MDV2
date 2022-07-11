@@ -14,7 +14,7 @@ let text = `
 ├❏https://www.mediafire.com/file/190g4b86nhyof7b/com.termux_118.apk/file?dkey=wfddtbi5jtj98
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕: 𝚙𝚕𝚊𝚢 :」
-├❏
+├❏https://youtu.be/HoxZuQokeMM
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇」
 ├❏pkg update && pkg upgrade
