@@ -7,7 +7,7 @@ let res = await mediafiredl(args[0])
 let { url, url2, filename, ext, aploud, filesize, filesizeH } = res
 let caption = `
 ┌「𓈃ּ🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
-├❏|❤️|${eg}|🍃|${gt} 
+├❏|❤️|${eg}
 ├❏|💎|𝙽𝙾𝙼𝙱𝚁𝙴: ${filename}
 ├❏|📥|𝙿𝙴𝚂𝙾: ${filesizeH}
 ├❏|🏓|𝚃𝙸𝙿𝙾: ${ext}
