@@ -27,7 +27,7 @@ lastError = e
 conn.sendFile(m.chat, source, title + '.mp3', `
 ┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏🔥𝚃𝙸𝚃𝚄𝙻𝙾: ${title}
-├❏📁𝙿𝙴𝚂𝙾 𝙳𝙴𝙻 𝚅𝙸𝙳𝙴𝙾: ${video.fileSizeH}
+
 └────ׂ`.trim(), m, null, {
 asDocument: chat.useDocument
 })
