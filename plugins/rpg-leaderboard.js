@@ -34,7 +34,7 @@ ${sortedLevel.slice(0, len).map(({ jid, level }, i) => `${i + 1}. ${participants
 ▢ *TOP ${len} HADESCOINS* •
 Tú : *${usersMoney.indexOf(m.sender) + 1}* de *${usersMoney.length}*
 
-${sortedMoney.slice(0, len).map(({ jid, money }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *${money} GataCoins*`).join`\n`}
+${sortedMoney.slice(0, len).map(({ jid, money }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *${money} HADESCOINS`).join`\n`}
 `.trim()
   conn.reply(m.chat, text, m, {
     contextInfo: {
