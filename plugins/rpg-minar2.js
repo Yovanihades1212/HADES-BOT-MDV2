@@ -10,7 +10,7 @@ if (new Date - global.db.data.users[m.sender].lastmiming < 600000) throw `*💟 
 
 conn.sendHydrated(m.chat, `*${minar} ${xp} 𝐗𝐏`, wm, pp, md, '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['💎𝐌𝐈𝐍𝐀𝐑 𝐃𝐈𝐀𝐌𝐀𝐍𝐓𝐄𝐒', `.minar`],
-['🌠𝐌𝐈𝐍𝐀𝐑 𝐄𝐗𝐏', `.minar2`]
+['🌠𝐌𝐈𝐍𝐀𝐑 𝐄𝐗𝐏', `.minar2`],
 ['🌌𝐌𝐈𝐍𝐀𝐑 𝐂𝐎𝐈𝐍𝐒️', `.minar3`]
 ], m,)
 global.db.data.users[m.sender].lastmiming = new Date * 1  
