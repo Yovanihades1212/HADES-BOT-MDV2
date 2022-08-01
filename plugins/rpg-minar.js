@@ -9,11 +9,12 @@ let time = global.db.data.users[m.sender].lastdiamantes + 600000
 if (new Date - global.db.data.users[m.sender].lastdiamantes < 600000) throw `┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─\n├❏ 𝙷𝙰𝚂 𝙼𝙸𝙽𝙰𝙳𝙾 𝙳𝙴𝙼𝙰𝚂𝙸𝙰𝙳𝙾  𝙴𝚂𝙿𝙴𝚁𝙰 𝙴𝚂𝚃𝙴 𝚃𝙸𝙴𝙼𝙿𝙾 𝙿𝙰𝚁𝙰\n├❏ ${msToTime(time - new Date())} 𝚅𝙾𝙻𝚅𝙴𝚁 𝙰 𝙼𝙸𝚁𝙰𝚁 ⛏️\n└────ׂ─ׂ─ׂ─ׂ───\n`
 
 conn.sendHydrated(m.chat, `${minar} ${d} 𝙳𝙸𝙰𝙼𝙰𝙽𝚃𝙴𝚂`, wm, pp, md, '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
-['️𝐌𝐄𝐍𝐔', `.menu`],
-['𝐄𝐒𝐓𝐀𝐃𝐎','/estado']
+['️⚡𝐌𝐄𝐍𝐔', `.menu`],
+['🌠𝐌𝐈𝐍𝐀𝐑 𝐄𝐗𝐏', `.minar2`],
+['🌌𝐌𝐈𝐍𝐀𝐑 𝐂𝐎𝐈𝐍𝐒️', `.minar3`]
 ], m,)
 global.db.data.users[m.sender].lastdiamantes = new Date * 1  
-  
+
 
 //m.reply(`*${minar} *${hasil} 𝙓𝙋*`)
 
