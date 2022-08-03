@@ -1,6 +1,6 @@
 let handler = async (m, { conn, isPrems}) => { //lastmiming
 let minar = `┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─\n├❏${pickRandom(['Que pro 😎 has minado','🌟✨ Genial!! Obtienes','WOW!! eres un(a) gran Minero(a) ⛏️ Obtienes','Felicidades!! Ahora tienes','⛏️⛏️⛏️ Obtienes'])}\n└────ׂ─ׂ─ׂ─ׂ───`
-let pp = './media/src/minar.mp4'
+let pp = 'https://i.imgur.com/fj9VfPz.mp4'
 
 let xp = Math.floor(Math.random() * 2000)
 global.db.data.users[m.sender].exp = xp * 1  
