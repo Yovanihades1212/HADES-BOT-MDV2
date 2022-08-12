@@ -12,7 +12,7 @@ let texto1 = `
 └────ׂ─ׂ─ׂ─ׂ───
 ㅤ`
 let buttonMessage= {
-'document': { url: `http://wa.me/5212411261883` },
+'document': { url: `http://wa.me/5212411347465` },
 'mimetype': `application/${document}`,
 'fileName': `𝚃𝚑𝚎 𝙷𝙰𝙳𝙴𝚂 𝙱𝙾𝚃`,
 'fileLength': 99999999999999,
@@ -21,7 +21,7 @@ let buttonMessage= {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'http://wa.me/5212411261883',
+'mediaUrl': 'http://wa.me/5212411347465',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'http://wa.me/5212411347465⁩',
