@@ -614,7 +614,7 @@ export async function handler(chatUpdate) {
         if (opts['autoread'])
             await this.readMessages([m.key])
         
-        if (!m.fromMem && m.text.match(/(Bruno Sobrino|@5219996125657|bot|mystic|the mystic - bot|mystic - bot|themystic-bot)/gi)) {
+        if (!m.fromMem && m.text.match(/(hades bot|@5212511347465|hades bot)/gi)) {
         let emot = pickRandom(["🎃", "❤", "😘", "😍", "💕", "😎", "🙌", "⭐", "👻", "🔥"])
         this.sendMessage(m.chat, { react: { text: emot, key: m.key }})}
         function pickRandom(list) { return list[Math.floor(Math.random() * list.length)]}
