@@ -30,13 +30,14 @@ POR EL MOMENTO NO ESTÁ DISPONIBLE PARA TERMUX
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
 ├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├❏cd HADES-BOT-MDV2 
+├❏cd HADES-BOT-MDV2
 ├❏npm install
-├❏ls
+├❏pkg install yarn
 ├❏npm update
+├❏yarn
 ├❏npm install
 ├❏npm start
-└────ׂ─ׂ─ׂ─ׂ───
+└────ׂ─ׂ─ׂ─ׂ───  
 ```
 ### `NOTAS`
 ```bash
