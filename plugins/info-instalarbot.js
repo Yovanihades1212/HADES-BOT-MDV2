@@ -47,7 +47,7 @@ let texto1 = `
 ├❏de esa cantidad el Bot empieza a ir 
 excesivamente lento (depende del
 ├❏WhatsApp igual)
-└────ׂ─ׂ─ׂ─ׂ───`
+└────ׂ─ׂ─ׂ─ׂ───  `
 let buttonMessage= {
 'document': { url: `http://wa.me/5212411347465` },
 'mimetype': `application/${document}`,
