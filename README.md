@@ -70,7 +70,8 @@ excesivamente lento (depende del WhatsApp igual)
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/Yovanihades1212/HADES-BOT-MDV2/blob/master/config.js)
 > ##### WhatsApp recomendado por el creador del Bot
 * [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/o80pni1rfi0n6zz/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_PRIMARIO.apk/file).
-* [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file.
+
+* [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file).
 ## `PORPIETARIO DEL BOT` 
 [![Yovanihades1212](https://i.imgur.com/lkch77g.jpeg)](https://github.com/Yovanihades1212/HADES-BOT-MDV2.git) 
 ```bash
