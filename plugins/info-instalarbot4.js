@@ -62,6 +62,6 @@ let buttonMessage= {
 {buttonId: `${usedPrefix}menu`, buttonText: {displayText: '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸'}, type: 1}],
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
-handler.command = /^(instalarbot4|instalarbot4)$/i
+handler.command = /^(instalarbottermux|instalarbottermux)$/i
 export default handler
 
