@@ -19,7 +19,7 @@ let texto1 = `
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
+├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MD.git
 ├❏cd HADES-BOT-MDV2
 ├❏npm install
 ├❏pkg install yarn
@@ -47,7 +47,7 @@ let texto1 = `
 ├❏de esa cantidad el Bot empieza a ir 
 excesivamente lento (depende del
 ├❏WhatsApp igual)
-└────ׂ─ׂ─ׂ─ׂ───  `
+└────ׂ─ׂ─ׂ─ׂ───`
 let buttonMessage= {
 'document': { url: `http://wa.me/5212411347465` },
 'mimetype': `application/${document}`,
@@ -72,4 +72,3 @@ let buttonMessage= {
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = /^(instalarbot|instalarbot)$/i
 export default handler
-
