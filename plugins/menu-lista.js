@@ -34,8 +34,8 @@ rows: [
      {title: "│⛩️│𝙰𝙽𝙸𝙼𝙴𝚂", description: "𝙼𝚎𝚗𝚊𝚖𝚙𝚒𝚕𝚔𝚊𝚗 𝙼𝚎𝚗𝚞 𝙰𝚗𝚒𝚖𝚎", rowId: `${usedPrefix}animesdelbot`},
      {title: "│🎇│𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚙𝚊𝚛𝚊 𝚌𝚛𝚎𝚊 𝚜𝚝𝚒𝚌𝚔𝚎𝚛", rowId: `${usedPrefix}stickersf`},
      {title: "│👻│𝙸𝙽𝚅𝙾𝙲𝙰𝚁 𝙰𝙻 𝙶𝚁𝚄𝙿𝙾𝚂 ", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘", rowId: `${usedPrefix}tagall`},
-     {title: "│🔓│𝙰𝙱𝚁𝚕𝚁 𝙶𝚁𝚄𝙿𝙾", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘", rowId: `${usedPrefix}grupo abrir`},
-     {title: "│🔐│𝙲𝙴𝚁𝚁𝙰𝚁 𝙶𝚁𝚄𝙿𝙾", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘", rowId: `${usedPrefix}grupo cerrar`},
+     {title: "│🔓│𝙰𝙱𝚁𝚕𝚁 𝙶𝚁𝚄𝙿𝙾", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚎𝚕 𝚖𝚎𝚗𝚞 𝚍𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗", rowId: `${usedPrefix}grupo abrir`},
+     {title: "│🔐│𝙲𝙴𝚁𝚁𝙰𝚁 𝙶𝚁𝚄𝙿𝙾", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚎𝚕 𝚖𝚎𝚗𝚞 𝚍𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗", rowId: `${usedPrefix}grupo cerrar`},
      {title: "│💎│𝙾𝚆𝙽𝙴𝚁 𝙱𝙾𝚃", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚚𝚞𝚎 𝚜𝚘𝚕𝚘 𝚎𝚕 𝚙𝚛𝚘𝚙𝚒𝚎𝚝𝚊𝚛𝚒𝚘/𝚘𝚠𝚗𝚎𝚛 𝚙𝚞𝚎𝚍𝚎 ", rowId: `${usedPrefix}soloparaelpropietario`},
     {title: "│👩‍💻│𝙻𝙴𝙶𝙸𝙾𝙽 𝙳𝙴𝙻 𝙱𝙾𝚃", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚕𝚊 𝚕𝚎𝚐𝚒ó𝚗 ", rowId: `${usedPrefix}reclutamiento`},
     {title: "│♠️│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙴𝙻 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝚃", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝙰𝙲𝚃𝙸𝚅𝙰 𝙻𝙰𝚂 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝙲𝙸𝙾𝙽𝙴𝚂 𝙿𝙰𝚁𝙰 𝚂𝙰𝙲𝙰𝚁 𝙶𝙴𝙽𝚃𝙴 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂", rowId: `${usedPrefix}enable restrict`},
@@ -56,9 +56,9 @@ rows: [
     {title: "│🗝️│𝙳𝙴𝚂𝙱𝙰𝙽𝙴𝙰𝚁 𝙴𝙽 𝙴𝙻 𝙶𝚁𝚄𝙿𝙾", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘", rowId: `${usedPrefix}unbanchat`},
     {title: "│🎟️│𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙳𝙴 𝙽𝚄𝙼𝙴𝚁𝙾𝚂 𝚅𝙸𝚁𝚃𝚄𝙰𝙻𝙴𝚂", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó 𝚙𝚊𝚛𝚊 𝚌𝚛𝚎𝚊𝚛 𝚗ú𝚖𝚎𝚛𝚘𝚜 𝚟𝚒𝚛𝚝𝚞𝚊𝚕𝚎𝚜", rowId: `${usedPrefix}creatunumero`},
     {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝚃𝙴𝚁𝙼𝚄𝚇", rowId: `${usedPrefix}instalarbot`},
-    {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱2", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝙿𝙰𝙶𝙸𝙽𝙰 𝙳𝙴 𝙱𝙾𝚇𝙼𝚄𝙽𝙴𝚆𝙾𝚁𝙻𝙳", rowId: `${usedPrefix}instalarbot2`},
-    {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱3", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝙿𝙰𝙶𝙸𝙽𝙰 𝙳𝙴 𝙰𝙲𝙸𝙳𝙸𝙲𝙽𝙾𝙳𝙴𝚂", rowId: `${usedPrefix}instalarbot3`},
-    {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱4", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝚃𝙴𝚁𝙼𝚄𝚇 𝚌𝚘𝚗 𝚕𝚊 𝚜𝚘𝚕𝚞𝚌𝚒𝚘𝚗 𝚍𝚎 𝚕𝚘𝚜 𝚋𝚘𝚝𝚘𝚗𝚎𝚜", rowId: `${usedPrefix}instalarbot4`},
+    {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱2", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝙿𝙰𝙶𝙸𝙽𝙰 𝙳𝙴 𝙱𝙾𝚇𝙼𝚄𝙽𝙴𝚆𝙾𝚁𝙻𝙳", rowId: `${usedPrefix}Boxmine`},
+    {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱3", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝙿𝙰𝙶𝙸𝙽𝙰 𝙳𝙴 𝙰𝙲𝙸𝙳𝙸𝙲𝙽𝙾𝙳𝙴𝚂", rowId: `${usedPrefix}acidicnodes`},
+    {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱4", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝚃𝙴𝚁𝙼𝚄𝚇 𝚌𝚘𝚗 𝚕𝚊 𝚜𝚘𝚕𝚞𝚌𝚒𝚘𝚗 𝚍𝚎 𝚕𝚘𝚜 𝚋𝚘𝚝𝚘𝚗𝚎𝚜", rowId: `${usedPrefix}termux`},
     {title: "│🏧│𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝚃𝙴 𝙰 𝙼𝙸 𝙱𝙰𝚂𝙴𝙱𝙳𝙰𝚃𝙾𝚂", description: "𝚃𝚎 𝚒𝚗𝚟𝚒𝚝𝚘 𝚊 𝚛𝚎𝚐𝚒𝚜𝚝𝚛𝚊𝚛𝚝𝚎 𝚙𝚊𝚛𝚊 𝚚𝚞𝚎 𝚎𝚜𝚝é𝚜 𝚎𝚗 𝚖𝚒 𝚋𝚊𝚜𝚎 𝚍𝚎 𝚍𝚊𝚝𝚘𝚜 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚛𝚎𝚐𝚒𝚜𝚝𝚎𝚛", rowId: `${usedPrefix}register`},
     {title: "│🎴│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙻𝙾𝚂 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝚃𝙾𝙳𝙰𝚂 𝙻𝙰𝚂 𝙸𝙼𝙰𝙶𝙴𝙽𝙴𝚂, 𝚅𝙸𝙳𝙴𝙾𝚂 𝙾 𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝙴𝙽𝚅𝙸𝙰𝙳𝙾𝚂 𝚂𝙴 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝙽 𝙴𝙽 𝚂𝚃𝙸𝙲𝙺𝙴𝚁", rowId: `${usedPrefix}enable autosticker`},
     {title: "│🧧️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙻𝙾𝚂 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝚃𝙾𝙳𝙰𝚂 𝙻𝙰𝚂 𝙸𝙼𝙰𝙶𝙴𝙽𝙴𝚂, 𝚅𝙸𝙳𝙴𝙾𝚂 𝙾 𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝙴𝙽𝚅𝙸𝙰𝙳𝙾𝚂 𝚂𝙴 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝙽 𝙴𝙽 𝚂𝚃𝙸𝙲𝙺𝙴𝚁", rowId: `${usedPrefix}disable autosticker`},
@@ -89,7 +89,7 @@ let name = await conn.getName(m.sender)
 //let name = conn.getName(m.sender)
 const listMessage = {
 text: `
-┌「𓈃ּ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌─「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏${ucapan()}
 ├❏๖ۣۜۜ͜͡𝙷𝙾𝙻𝙰✨${name}💖 
 ├❏──────
