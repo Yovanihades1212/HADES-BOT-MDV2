@@ -67,7 +67,7 @@ let str = `
 ├❏ 📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}
 └────ׂ─ׂ─ׂ─ׂ───
 ┌──「🧼𝐇𝐄𝐍𝐓𝐀𝐈」─
-├❏☔{usedPrefix}pack
+├❏☔${usedPrefix}pack
 ├❏🔞${usedPrefix}pack2
 ├❏☄️${usedPrefix}pack3
 ├❏🌚${usedPrefix}videoxxx
