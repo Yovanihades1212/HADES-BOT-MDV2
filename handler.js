@@ -276,6 +276,8 @@ export async function handler(chatUpdate) {
                     chat.antiviewonce = false
                 if (!('antiToxic' in chat))
                     chat.antiToxic = false
+                if (!('antiTraba' in chat))
+                    chat.antiTraba = false
                 if (!isNumber(chat.expired))
                     chat.expired = 0
             } else
@@ -295,6 +297,7 @@ export async function handler(chatUpdate) {
                     antiLink2: false,
                     antiviewonce: false,
                     antiToxic: false,
+                    antiTraba: false,
                     expired: 0,
                 }
             let settings = global.db.data.settings[this.user.jid]
@@ -303,6 +306,8 @@ export async function handler(chatUpdate) {
                 if (!('self' in settings)) settings.self = false
                 if (!('autoread' in settings)) settings.autoread = false
                 if (!('restrict' in settings)) settings.restrict = false
+                if (!('antiCall' in settings)) settings.antiCall = false
+                if (!('antiPrivate' in settings)) settings.antiPrivate = false
             } else global.db.data.settings[this.user.jid] = {
                 self: false,
                 autoread: false,
