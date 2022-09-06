@@ -138,12 +138,38 @@ if (!(isAdmin || isOwner)) {
 global.dfail('admin', m, conn)
 throw false
 }}
-chat.autosticker = isEnable          
+bot.antiCall = isEnable
+break
+case 'antiprivado':
+isAll = true
+if (!isROwner) {
+global.dfail('rowner', m, conn)
+throw false
+}
+bot.antiPrivate = isEnable
+break
+case 'antitoxic':
+if (m.isGroup) {
+if (!(isAdmin || isOwner)) {
+global.dfail('admin', m, conn)
+throw false
+}}
+chat.antiToxic = isEnable
+break
+chat.autosticker = isEnable         
 break
 case 'simsimi':
 if (m.isGroup) {
 if (!(isAdmin || isOwner)) {
 global.dfail('rowner', m, conn)
+throw false
+}}
+chat.simi = isEnable
+break
+case 'antitraba':
+if (m.isGroup) {
+if (!(isAdmin || isOwner)) {
+global.dfail('admin', m, conn)
 throw false
 }}
 chat.simsimi = isEnable          
