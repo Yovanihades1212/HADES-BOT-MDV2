@@ -63,6 +63,8 @@ rows: [
     {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱4", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝚃𝙴𝚁𝙼𝚄𝚇 𝚌𝚘𝚗 𝚕𝚊 𝚜𝚘𝚕𝚞𝚌𝚒𝚘𝚗 𝚍𝚎 𝚕𝚘𝚜 𝚋𝚘𝚝𝚘𝚗𝚎𝚜", rowId: `${usedPrefix}instalarbot4`},
     {title: "│🏧│𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝚃𝙴 𝙰 𝙼𝙸 𝙱𝙰𝚂𝙴𝙱𝙳𝙰𝚃𝙾𝚂", description: "𝚃𝚎 𝚒𝚗𝚟𝚒𝚝𝚘 𝚊 𝚛𝚎𝚐𝚒𝚜𝚝𝚛𝚊𝚛𝚝𝚎 𝚙𝚊𝚛𝚊 𝚚𝚞𝚎 𝚎𝚜𝚝é𝚜 𝚎𝚗 𝚖𝚒 𝚋𝚊𝚜𝚎 𝚍𝚎 𝚍𝚊𝚝𝚘𝚜 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚛𝚎𝚐𝚒𝚜𝚝𝚎𝚛", rowId: `${usedPrefix}register`},
     {title: "│🎴│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙻𝙾𝚂 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝚃𝙾𝙳𝙰𝚂 𝙻𝙰𝚂 𝙸𝙼𝙰𝙶𝙴𝙽𝙴𝚂, 𝚅𝙸𝙳𝙴𝙾𝚂 𝙾 𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝙴𝙽𝚅𝙸𝙰𝙳𝙾𝚂 𝚂𝙴 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝙽 𝙴𝙽 𝚂𝚃𝙸𝙲𝙺𝙴𝚁", rowId: `${usedPrefix}enable autosticker`},
+    {title: "│🌹│𝙿𝙴𝚁𝙵𝙸𝙻", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒ó𝚗 𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚝𝚞 𝚗𝚒𝚟𝚎𝚕 𝚢 𝚝𝚞 𝚋𝚊𝚜𝚎 𝚍𝚎 𝚍𝚊𝚝𝚘𝚜 𝚈 𝚝𝚞 𝚙𝚎𝚛𝚏𝚒𝚕", rowId: `${usedPrefix}perfil`},
+    {title: "│☘️│𝙴𝚂𝚃𝙰𝙳𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒ó𝚗 𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚎𝚕 𝚝𝚒𝚎𝚖𝚙𝚘 𝚊𝚌𝚝𝚒𝚟𝚘 𝚢 𝚞𝚜𝚘 𝚙ú𝚋𝚕𝚒𝚌𝚘", rowId: `${usedPrefix}verificar`},
     {title: "│🧧️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙻𝙾𝚂 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝚃𝙾𝙳𝙰𝚂 𝙻𝙰𝚂 𝙸𝙼𝙰𝙶𝙴𝙽𝙴𝚂, 𝚅𝙸𝙳𝙴𝙾𝚂 𝙾 𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝙴𝙽𝚅𝙸𝙰𝙳𝙾𝚂 𝚂𝙴 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝙽 𝙴𝙽 𝚂𝚃𝙸𝙲𝙺𝙴𝚁", rowId: `${usedPrefix}disable autosticker`},
     {title: "│🕋│𝙿𝚁𝙴𝙽𝙳𝙴𝚁 𝚈 𝙰𝙿𝙰𝙶𝙰𝚁", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎𝚊𝚌𝚝𝚒𝚟𝚊𝚌𝚒ó𝚗 𝚢 𝚍𝚎𝚜𝚊𝚌𝚝𝚒𝚟𝚊𝚛", rowId: `${usedPrefix} comandosfei`},
     {title: "│🖼│𝙸𝙼𝙰𝙶𝙴", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚋𝚞𝚜𝚚𝚞𝚎𝚍𝚊 𝚍𝚎 𝚒𝚖𝚊𝚐𝚎𝚗𝚎𝚜", rowId: `${usedPrefix}buscadores`},
@@ -85,13 +87,13 @@ rows: [
    {title: "│🏛️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙶𝙲𝙾𝙽𝙻𝚈", description: "𝙴𝙻 𝙱𝙾𝚃 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁𝙰 𝙰 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚂𝙸 𝙴𝚂 𝚄𝙽 𝙲𝙷𝙰𝚃 𝙿𝚁𝙸𝚅𝙰𝙳𝙾", rowId: `${usedPrefix}disable gconly`}, 
    {title: "│💌│𝙳𝙾𝙽𝙰", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗 𝚍𝚎 𝚍𝚘𝚗𝚊𝚛", rowId: `${usedPrefix}idonar`},
    {title: "│📌│𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚂𝙸 𝙱𝙾𝚃", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚎𝚕 𝚖𝚎𝚗𝚞 𝚍𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚌𝚒ó𝚗", rowId: `${usedPrefix}informaciónbot`},
-   {title: "│👩‍💻️│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝚗𝚝𝚒𝚙𝚛𝚒𝚟𝚊𝚍𝚘", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚙𝚞𝚎𝚍𝚎 𝚜𝚎𝚛 𝚞𝚜𝚊𝚍𝚘 𝚙𝚘𝚛 𝚎𝚕 𝚐𝚛𝚞𝚙𝚘  𝚙𝚛𝚘𝚙𝚒𝚎𝚝𝚊𝚛𝚒@ 𝚍𝚎𝚕 𝚋𝚘𝚝", rowId: `${usedPrefix}enable antiprivado`},
-   {title: "│👥️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝚗𝚝𝚒𝚙𝚛𝚒𝚟𝚊𝚍𝚘", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚙𝚞𝚎𝚍𝚎 𝚜𝚎𝚛 𝚞𝚜𝚊𝚍𝚘 𝚙𝚘𝚛 𝚎𝚕 𝚐𝚛𝚞𝚙𝚘  𝚙𝚛𝚘𝚙𝚒𝚎𝚝𝚊𝚛𝚒@ 𝚍𝚎𝚕 𝚋𝚘𝚝", rowId: `${usedPrefix}disable antiprivado`},
+   {title: "│👩‍💻️│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝙽𝚃𝙸𝙿𝚁𝙸𝚅𝙰𝙳𝙾", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚙𝚞𝚎𝚍𝚎 𝚜𝚎𝚛 𝚞𝚜𝚊𝚍𝚘 𝚙𝚘𝚛 𝚎𝚕 𝚐𝚛𝚞𝚙𝚘  𝚙𝚛𝚘𝚙𝚒𝚎𝚝𝚊𝚛𝚒@ 𝚍𝚎𝚕 𝚋𝚘𝚝", rowId: `${usedPrefix}enable antiprivado`},
+   {title: "│👥️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝙽𝚃𝙸𝙿𝚁𝙸𝚅𝙰𝙳𝙾", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚙𝚞𝚎𝚍𝚎 𝚜𝚎𝚛 𝚞𝚜𝚊𝚍𝚘 𝚙𝚘𝚛 𝚎𝚕 𝚐𝚛𝚞𝚙𝚘  𝚙𝚛𝚘𝚙𝚒𝚎𝚝𝚊𝚛𝚒@ 𝚍𝚎𝚕 𝚋𝚘𝚝", rowId: `${usedPrefix}disable antiprivado`},
    {title: "│🤬│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝙽𝙸𝚃𝙸𝙾𝚇𝙸𝙲𝙾𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 ", rowId: `${usedPrefix}enable antitoxic`},
    {title: "│😡│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝙽𝙸𝚃𝙸𝙾𝚇𝙸𝙲𝙾𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘", rowId: `${usedPrefix}disable antitoxic`},
   {title: "│☣️│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝙽𝚃𝙸𝚃𝚁𝙰𝙱𝙰𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 ", rowId: `${usedPrefix}enable antitraba`},
   {title: "│☢️│𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙰𝙽𝚃𝙸𝚃𝚁𝙰𝙱𝙰𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘", rowId: `${usedPrefix}disable antitraba`},
-             
+            
 ]}, ] 
 let name = await conn.getName(m.sender)
 //let name = conn.getName(m.sender)
