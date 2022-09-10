@@ -19,7 +19,7 @@ let texto1 = `
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MD.git
+├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
 ├❏cd HADES-BOT-MDV2
 ├❏npm install
 ├❏pkg install yarn
