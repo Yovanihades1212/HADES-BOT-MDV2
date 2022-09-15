@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /verdad que te engane|Verdad que te engane/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

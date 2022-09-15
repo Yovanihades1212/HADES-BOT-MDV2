@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /soy nuevo|soy nueva|Soy nuevo|Soy nueva/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

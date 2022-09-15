@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /rawr|Rawr|RAWR|raawwr|rraawr|rawwr/
 handler.command = new RegExp
+handler.register = true
 export default handler

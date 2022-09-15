@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Sigues con vida|sigues con vida/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

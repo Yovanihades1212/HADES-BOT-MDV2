@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Nos vale|nos vale/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

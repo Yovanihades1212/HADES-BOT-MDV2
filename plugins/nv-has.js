@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /hasta mañana|Hasta mañana|ya voy a dormir|Ya voy a dormir/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

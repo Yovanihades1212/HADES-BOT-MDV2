@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /laoracion|La biblia|La oración|La biblia|La oración|la biblia|La Biblia/
 handler.command = new RegExp
+handler.register = true
 export default handler

@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /hentai2|Hentai2/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

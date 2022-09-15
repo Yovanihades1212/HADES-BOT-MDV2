@@ -13,4 +13,5 @@ handler.customPrefix = /gemidos|gemime|gime|gemime|gemi2/i
 handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
+handler.register = true
 export default handler

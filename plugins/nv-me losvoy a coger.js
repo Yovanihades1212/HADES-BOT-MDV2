@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /me los voy a coger|Me los voy a coger/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

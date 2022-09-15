@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Gracias bot|Gracias bot/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

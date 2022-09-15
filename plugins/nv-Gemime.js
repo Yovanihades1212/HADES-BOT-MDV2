@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Gemime|gemime/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

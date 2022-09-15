@@ -11,7 +11,7 @@ ptt: true
 }
 handler.customPrefix = /vivan!!|vivan los novios|vivanlosnovios/i
 handler.command = new RegExp
-
+handler.register = true
 handler.fail = null
 handler.exp = 100
 export default handler

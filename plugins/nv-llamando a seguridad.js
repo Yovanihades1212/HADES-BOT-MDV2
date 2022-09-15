@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /llamando a seguridad|llamando a seguridad/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

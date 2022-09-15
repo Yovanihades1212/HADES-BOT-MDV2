@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /fiesta viernes|viernes|Viernes|viernes fiesta/
 handler.command = new RegExp
+handler.register = true
 export default handler

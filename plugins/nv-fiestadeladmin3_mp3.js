@@ -13,5 +13,6 @@ handler.customPrefix = /fiesta del admin 3|atención grupo|atencion grupo|aviso 
 handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
+handler.register = true
 export default handler
 

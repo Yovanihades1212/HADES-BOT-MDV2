@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /risa|Risa/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

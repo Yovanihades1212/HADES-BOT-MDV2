@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /audio hentai|Audio hentai|audiohentai|Audiohentai/i
 handler.command = new RegExp
+handler.register = true
 export default handler

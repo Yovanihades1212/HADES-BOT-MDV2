@@ -11,4 +11,5 @@ ptt: true // true diatas ga work, sebab dipaksa tanpa convert ;v
 }
 handler.customPrefix = /Feliz navidad|feliz navidad|Merry Christmas|merry chritmas/
 handler.command = new RegExp
+handler.register = true
 export default handler

@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /Fiesta del admin|fiesta del admin/
 handler.command = new RegExp
+handler.register = true
 export default handler

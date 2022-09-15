@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /se enojan|Se enojan/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

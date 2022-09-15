@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /La voz de hombre/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

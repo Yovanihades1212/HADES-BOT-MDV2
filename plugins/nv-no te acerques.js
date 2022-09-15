@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /No te acerques|no te acerques/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

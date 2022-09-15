@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Pack|pack/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

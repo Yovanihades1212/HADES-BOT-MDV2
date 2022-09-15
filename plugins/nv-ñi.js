@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /ñi|Ñi/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

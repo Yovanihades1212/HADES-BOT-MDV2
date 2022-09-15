@@ -12,5 +12,6 @@ ptt: true
 handler.customPrefix = /feliz cumpleaños|felizcumpleaños|happy birthday/i
 handler.command = new RegExp
 handler.fail = null
+handler.register = true
 handler.exp = 100
 export default handler

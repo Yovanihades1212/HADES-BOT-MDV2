@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Es todo lo que tienes que decir|es todo lo que tienes que decir/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

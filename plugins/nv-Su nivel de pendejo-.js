@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /Su nivel de pendejo|su nivel de pendejo/
 handler.command = new RegExp
+handler.register = true
 export default handler

@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /O omosa|omosa|Omosa|o omosa/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

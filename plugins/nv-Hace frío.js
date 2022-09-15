@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Hace frío|hace frío/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

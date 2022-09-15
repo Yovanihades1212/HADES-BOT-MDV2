@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /pikachu|Pikachu/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

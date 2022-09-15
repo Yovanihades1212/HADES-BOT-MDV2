@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Te pasas|te pasas/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

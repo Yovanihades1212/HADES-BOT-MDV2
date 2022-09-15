@@ -13,4 +13,5 @@ handler.customPrefix = /ho me vengo|oh me vengo|o me vengo|Ho me vengo|Oh me ven
 handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
+handler.register = true
 export default handler

@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /La bebecita|la bebecita/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

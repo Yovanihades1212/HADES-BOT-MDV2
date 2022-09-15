@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /Murió el grupo|Murio el grupo|murio el grupo|murió el grupo|Grupo muerto|grupo muerto/
 handler.command = new RegExp
+handler.register = true
 export default handler

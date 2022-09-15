@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Hades es un Dios|hades es un Dios/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

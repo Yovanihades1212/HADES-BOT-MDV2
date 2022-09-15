@@ -12,4 +12,5 @@ ptt: true
 handler.command = /^(:c|c)$/i
 handler.fail = null
 handler.exp = 100
+handler.register = true
 export default handler

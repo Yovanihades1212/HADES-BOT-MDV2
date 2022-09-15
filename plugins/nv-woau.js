@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /woau|Woau/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

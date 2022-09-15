@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Elmo|elmo/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

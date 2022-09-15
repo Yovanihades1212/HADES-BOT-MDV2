@@ -12,5 +12,6 @@ ptt: true
 handler.customPrefix = /es puto|eeesss putoo|es putoo|esputoo/i
 handler.command = new RegExp
 handler.fail = null
+handler.register = true
 handler.exp = 100
 export default handler

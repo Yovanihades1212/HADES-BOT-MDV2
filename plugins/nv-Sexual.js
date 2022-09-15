@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Facha|facha/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

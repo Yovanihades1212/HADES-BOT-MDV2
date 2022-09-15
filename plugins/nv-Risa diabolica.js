@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Risa diabolica|risa diabolica/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

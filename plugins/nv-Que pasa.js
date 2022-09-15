@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Que pasa|que pasa/
 handler.command = new RegExp
+handler.register = true
 export default handler
 
