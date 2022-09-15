@@ -142,6 +142,6 @@ handler.before = function (m, text) {
 
     user.role = role
     return true
-}
+} 
 
 export default handler */
