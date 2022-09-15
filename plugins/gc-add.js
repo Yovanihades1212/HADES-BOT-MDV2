@@ -50,5 +50,6 @@ handler.group = true
 handler.admin = true
 handler.botAdmin = true
 handler.fail = null
+handler.register = true
 handler.limit = 1
 export default handler

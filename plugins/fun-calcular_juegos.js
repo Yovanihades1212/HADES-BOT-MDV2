@@ -193,4 +193,5 @@ handler.tags = ['calculator']
 handler.command = /^love|gay2|lesbiana|pajero|pajera|puto|puta|manco|manca|rata|prostituta|prostituto/i
 handler.exp = 100
 handler.limit = 1
+handler.register = true
 export default handler

@@ -1,4 +1,3 @@
-/* Created by https://github.com/unptoadrih15 */
 
 let handler = async (m, { conn }) => {
 conn.tebaklagu = conn.tebaklagu ? conn.tebaklagu : {}
@@ -10,4 +9,5 @@ let nyanya = nya.replace(/[bcdfghjklmnñpqrstvwxyzBCDEFGHJKLMNÑPQRSTVWXYZ]/g, '
 m.reply('' + nyanya + '')
 }
 handler.command = /^hint|pista$/i
+handler.register = true
 export default handler

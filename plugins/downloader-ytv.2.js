@@ -34,4 +34,5 @@ conn.sendMessage(m.chat, { document: { url: link }, mimetype: 'video/mp4', fileN
 }
 handler.command = /^ytmp4doc|ytvdoc|ytmp4.2|ytv.2$/i
 handler.limit = 2
+handler.register = true
 export default handler

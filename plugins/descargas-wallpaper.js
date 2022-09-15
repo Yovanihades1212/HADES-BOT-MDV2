@@ -18,4 +18,5 @@ handler.tags = ['downloader']
 handler.command = /^(wp|wallpaper2?)$/i
 handler.exp = 29
 handler.limit = 2
+handler.register = true
 export default handler 

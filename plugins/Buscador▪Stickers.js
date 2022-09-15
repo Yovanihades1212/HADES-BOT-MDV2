@@ -39,4 +39,5 @@ conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.tags = ['search']
 handler.command = handler.help = ['stickersearch', 'searchsticker']
 handler.limit = 2
+handler.register = true
 export default handler

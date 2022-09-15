@@ -33,4 +33,5 @@ handler.command = /^(spotify|music)$/i
 handler.help = ['spotify']
 handler.tags = ['general']
 handler.limit = 2
+handler.register = true
 export default handler

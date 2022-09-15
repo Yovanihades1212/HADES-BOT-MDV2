@@ -21,6 +21,7 @@ handler.help = ['group open / close', 'grupo abrir / cerrar']
 handler.tags = ['group']
 handler.command = /^(group|grupo)$/i
 handler.limit = 1
+handler.register = true
 handler.admin = true
 handler.botAdmin = true
 export default handler

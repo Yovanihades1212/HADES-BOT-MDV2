@@ -208,6 +208,7 @@ handler.tags = ['group', 'owner']
 handler.command = ['multijuegos', 'juegos']
 handler.group = true
 handler.limit = 1
+handler.register = true
 export default handler
                               
 const more = String.fromCharCode(8206)

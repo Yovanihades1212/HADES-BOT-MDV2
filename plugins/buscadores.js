@@ -102,6 +102,7 @@ handler.tags = ['main']
 handler.command = /^(buscadores|buscadores\?)$/i
 handler.exp = 50
 handler.limit = 1
+handler.register = true
 handler.fail = null
 export default handler
 

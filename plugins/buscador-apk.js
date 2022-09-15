@@ -119,4 +119,5 @@ await conn.reply(m.chat, caption, m)}
 }
 handler.command = ['apkdone', 'apkgoogle', 'apkmody', 'apkshub', 'happymod', 'hostapk', 'revdl', 'toraccino', 'uapkpro']
 handler.limit = 2
+handler.register = true
 export default handler

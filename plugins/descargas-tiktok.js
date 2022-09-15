@@ -17,6 +17,7 @@ handler.alias = ['tiktok', 'tikdl', 'tiktokdl', 'tiktoknowm']
 handler.command = /^(tt|tiktok)(dl|nowm)?$/i
 handler.limit = 2
 handler.exp = 60
+handler.register = true
 export default handler
 
 async function getInfo(url) {

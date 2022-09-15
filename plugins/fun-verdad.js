@@ -11,6 +11,7 @@ handler.help = ['verdad']
 handler.tags = ['fun']
 handler.command = /^verdad/i
 handler.limit = 1
+handler.register = true
 handler.fail = null
 export default handler
 

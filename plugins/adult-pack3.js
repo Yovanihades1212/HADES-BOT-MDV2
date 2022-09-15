@@ -8,6 +8,7 @@ handler.help = ['pack3']
 handler.tags = ['internet']
 handler.command = /^(pack3)$/i
 handler.limit = 2
+handler.register = true
 export default handler
 
 global.packmen = [

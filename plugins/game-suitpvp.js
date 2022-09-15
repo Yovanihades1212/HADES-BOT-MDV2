@@ -26,4 +26,5 @@ delete conn.suit[id]
 handler.command = /^pvp|suit(pvp)?$/i
 handler.group = true
 handler.game = true
+handler.register = true
 export default handler

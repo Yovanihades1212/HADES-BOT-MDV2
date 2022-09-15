@@ -11,5 +11,7 @@ await conn.sendFile(m.chat, r.medias[i].url, '', txt, m)
 handler.command = /^instagramdl|instagram|igdl|ig$/i
 handler.limit = 2
 handler.exp = 70
+handler.register = true
+handler.register = true
 handler.dfail = null
 export default handler

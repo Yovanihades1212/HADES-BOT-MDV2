@@ -1,4 +1,4 @@
-/* Created by https://github.com/unptoadrih15 */
+
 
 import similarity from'similarity'
 const threshold = 0.72

@@ -15,4 +15,5 @@ handler.tags = ['internet', 'tools']
 handler.command = /^(gimage|image|imagen)$/i
 handler.exp = 20
 handler.limit = 2
+handler.register = true
 export default handler

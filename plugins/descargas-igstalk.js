@@ -51,5 +51,6 @@ handler.tags = ['downloader']
 handler.command = /^(igstalk|verig|igver)$/i
 handler.exp = 80
 handler.limit = 2
+handler.register = true
 export default handler
 

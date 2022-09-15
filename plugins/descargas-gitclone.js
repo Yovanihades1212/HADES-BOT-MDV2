@@ -23,4 +23,5 @@ handler.tags = ['downloader']
 handler.command = /gitclone|clonarepo|clonarrepo|repoclonar/i
 handler.limit = 3
 handler.exp = 59
+handler.register = true
 export default handler

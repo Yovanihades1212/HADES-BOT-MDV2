@@ -32,4 +32,5 @@ handler.tags = ['downloader']
 handler.command = ['play.1', 'play.2']
 handler.exp = 35
 handler.limit = 2
+handler.register = true
 export default handler

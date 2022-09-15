@@ -46,5 +46,6 @@ handler.tags = ['downloader']
 handler.command = /^yt(v|mp4)?$/i
 handler.exp = 35
 handler.limit = 2
+handler.register = true
 export default handler
 

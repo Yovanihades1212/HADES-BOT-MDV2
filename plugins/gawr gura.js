@@ -6,6 +6,7 @@ let handler = async (m, { conn, text, command }) => {
   handler.command = /^(gawrgura|Gawrgura)$/i
   handler.tags = ['anime']
   handler.help = ['gawrgura']
+  handler.register = true
   handler.limit = 1
   export default handler
   

@@ -33,4 +33,5 @@ handler.admin = true
 handler.botAdmin = true
 handler.fail = null
 handler.limit = 1
+handler.register = true
 export default handler

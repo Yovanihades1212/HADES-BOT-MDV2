@@ -18,7 +18,7 @@ buttonText: "[♦ 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒 ♦]",
 sections}
 const fake = { quoted: {
 key : {
-remoteJid: '6283136505591-1614953337@g.us',
+remoteJid: '5212411347465-5212411719888@g.us',
 participant : '0@s.whatsapp.net'},
 message: {
 orderMessage: {
@@ -44,4 +44,5 @@ console.log(e)
 handler.command = /^playdocumento|documento$/i
 handler.exp = 35
 handler.limit = 1
+handler.register = true
 export default handler

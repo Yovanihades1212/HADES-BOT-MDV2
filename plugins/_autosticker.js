@@ -31,5 +31,6 @@ return !0
 }
 export default handler
 handler.limit = 1
+handler.register = true
 const isUrl = (text) => {
 return text.match(new RegExp(/^https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_+.~#?&/=]*)(jpe?g|gif|png|mp4)/, 'gi'))}

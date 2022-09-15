@@ -27,6 +27,7 @@ handler.help = ['*593xxx*','*@usuario*','*responder chat*'].map(v => 'demote ' +
 handler.tags = ['group']
 handler.command = /^(demote|quitarpoder|quitaradmin)$/i
 handler.limit = 1
+handler.register = true
 handler.group = true
 handler.admin = true
 handler.botAdmin = true

@@ -34,4 +34,5 @@ await conn.sendMessage(m.chat, { document: { url: link}, mimetype: 'audio/mpeg',
 }
 handler.command = /^ytmp3doc|ytadoc|ytmp3.2|yta.2$/i
 handler.limit = 2
+handler.register = true
 export default handler

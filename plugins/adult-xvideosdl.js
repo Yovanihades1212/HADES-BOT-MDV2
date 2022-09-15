@@ -16,4 +16,5 @@ console.log(e)
 }}
 handler.command = /^(xvideosdl)$/i
 handler.limit = 2
+handler.register = true
 export default handler

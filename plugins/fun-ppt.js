@@ -329,6 +329,7 @@ handler.command = /^(ppt)$/i
 handler.register = false
 handler.limit = false
 handler.limit = 1
+handler.register = true
 export default handler
 
 function pickRandom(list) {

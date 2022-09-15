@@ -74,4 +74,5 @@ handler.help = handler.command = ['topgays','topotakus']
 handler.tags = ['games']
 handler.group = true
 handler.limit = 1
+handler.register = true
 export default handler  

@@ -28,5 +28,6 @@ console.log(e)
 }}
 handler.command = /^porhubsearch|xvideossearch|xnxxsearch$/i
 handler.limit = 2
+handler.register = true
 export default handler
 global.keysxxx = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']

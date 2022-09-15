@@ -22,4 +22,5 @@ handler.help = ['pregunta <texto>?']
 handler.tags = ['kerang']
 handler.command = /^pregunta|preguntas|apakah$/i  
 handler.limit = 1
+handler.register = true
 export default handler

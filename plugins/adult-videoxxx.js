@@ -7,6 +7,7 @@ handler.help = ['videoxxx']
 handler.tags = ['random']
 handler.command = /^videoxxx|vídeoxxx$/i
 handler.limit = 2
+handler.register = true
 export default handler
 
 function pickRandom(list) {

@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /esto va a ser épico|esto va a ser epico/
 handler.command = new RegExp
+handler.register = true
 export default handler

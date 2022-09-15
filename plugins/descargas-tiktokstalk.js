@@ -50,5 +50,6 @@ handler.tags = ['stalk']
 handler.command = /^(tiktokstalk|ttstalk)$/i
 handler.exp = 48
 handler.limit = 2
+handler.register = true
 export default handler
 

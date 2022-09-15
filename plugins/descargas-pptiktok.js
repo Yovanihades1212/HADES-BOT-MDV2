@@ -18,6 +18,7 @@ handler.help = ['tiktokfoto'].map(v => v + ' <username>')
 handler.tags = ['downloader']
 handler.command = /^(tiktokfoto|tiktokphoto)$/i
 handler.exp = 68
+handler.register = true
 handler.limit = 2
 export default handler
 

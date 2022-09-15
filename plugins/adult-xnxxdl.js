@@ -17,4 +17,5 @@ console.log(e)
 }}
 handler.command = /^(xnxxdl)$/i
 handler.limit = 2
+handler.register = true
 export default handler

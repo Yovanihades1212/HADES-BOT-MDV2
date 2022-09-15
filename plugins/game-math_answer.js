@@ -42,4 +42,5 @@ handler.customPrefix = /^-?[0-9]+(\.[0-9]+)?$/
 handler.command = new RegExp
 handler.exp = 0
 handler.limit = 1
+handler.register = true
 export default handler

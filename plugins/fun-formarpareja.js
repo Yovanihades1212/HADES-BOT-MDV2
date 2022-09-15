@@ -15,5 +15,6 @@ handler.help = ['formarpareja']
 handler.tags = ['main', 'fun']
 handler.command = ['formarpareja','formarparejas']
 handler.limit = 1
+handler.register = true
 handler.group = true
 export default handler

@@ -15,4 +15,5 @@ handler.help = ['tomp3 (reply)']
 handler.tags = ['audio']
 handler.command = ['tomp3', 'toaudio', 'mp3']
 handler.limit = 1
+handler.register = true
 export default handler

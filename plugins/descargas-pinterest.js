@@ -15,6 +15,7 @@ handler.help = ['pinterest <keyword>']
 handler.tags = ['internet']
 handler.command = /^(pinterest|dlpinterest|pinterestdl)$/i
 handler.exp = 25
+handler.register = true
 handler.limit = 2
 export default handler
 

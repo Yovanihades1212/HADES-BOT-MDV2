@@ -9,8 +9,8 @@ let json = await res.json()
 for (let data of (json.result || json)) {
 const stikers = await sticker(false, data, global.packname, global.author)
 conn.sendFile(m.chat, stikers, 'sticker.webp', '', m, { asSticker: true })
-//await delay(1500)
+
 }}
 handler.command = /^stickerly|stickerpack$/i
+handler.register = true
 export default handler
-//const delay = time => new Promise(res => setTimeout(res, time))

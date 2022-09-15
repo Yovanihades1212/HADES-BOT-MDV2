@@ -15,4 +15,5 @@ await conn.reply(m.chat, '*[❗] 𝙴𝚁𝚁𝙾𝚁 𝙽𝙾 𝙵𝚄𝙴 𝙿
 }
 handler.command = /^getaud|yt(a|mp3)$/i
 handler.limit = 2
+handler.register = true
 export default handler
