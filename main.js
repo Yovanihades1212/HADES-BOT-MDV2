@@ -230,4 +230,4 @@ Object.freeze(global.support)
 }
 _quickTest()
 .then()
-.catch(console.error)
+.catch(console.error) 
