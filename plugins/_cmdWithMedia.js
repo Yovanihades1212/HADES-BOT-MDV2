@@ -26,4 +26,4 @@ messages: [proto.WebMessageInfo.fromObject(messages)],
 type: 'append'
 }
 this.ev.emit('messages.upsert', msg)
-}
+} 
