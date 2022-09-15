@@ -17,3 +17,4 @@ return this.sendFile(m.chat, buffer, 'error.mp4', `${msg[type].caption}\n\n*𝙰
 } else if (/image/.test(type)) {
 return this.sendFile(m.chat, buffer, 'error.jpg', `${msg[type].caption}\n\n*𝙰𝚀𝚄𝙸 𝙽𝙾 𝚂𝙴 𝙿𝙴𝚁𝙼𝙸𝚃𝙴 𝙾𝙲𝚄𝙻𝚃𝙰𝚁 𝙽𝙰𝙳𝙰*`, m)
 }}}
+ 
