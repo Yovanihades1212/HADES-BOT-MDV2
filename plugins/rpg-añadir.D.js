@@ -26,3 +26,4 @@ handler.tags = ['xp']
 handler.command = ['añadirdiamantes'] 
 handler.rowner = true
 export default handler
+ 
