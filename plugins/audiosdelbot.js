@@ -256,7 +256,7 @@ handler.tags = ['main']
 handler.command = /^(audiosdelbot|audiosdelbot\?)$/i
 handler.exp = 50
 handler.limit = 1
-handler.fail = null
+handler.fail = null 
 export default handler
 
 const more = String.fromCharCode(8206)
