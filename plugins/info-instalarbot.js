@@ -71,4 +71,5 @@ let buttonMessage= {
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = /^(instalarbot|instalarbot)$/i
+handler.register = true
 export default handler

@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Bot maricon|bot maricon/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

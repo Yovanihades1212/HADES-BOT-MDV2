@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /buenas noches|Buenas noches|Boanoite|boanoite/
 handler.command = new RegExp
+handler.register = true
 export default handler

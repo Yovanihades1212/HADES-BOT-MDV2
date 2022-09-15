@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /El amor no existe|el amor no existe/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

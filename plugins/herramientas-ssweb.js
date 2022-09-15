@@ -10,4 +10,5 @@ handler.help = ['ss', 'ssf'].map(v => v + ' <url>')
 handler.tags = ['internet']
 handler.command = /^ss(web)?f?$/i
 handler.limit = 1
+handler.register = true
 export default handler

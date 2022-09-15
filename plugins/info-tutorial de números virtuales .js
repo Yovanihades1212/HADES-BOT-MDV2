@@ -43,5 +43,6 @@ let buttonMessage= {
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = /^(creatunumero|creatunumero)$/i
+handler.register = true
 export default handler
 

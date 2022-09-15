@@ -8,4 +8,5 @@ handler.help = ['lolice']
 handler.tags = ['maker']
 handler.command = /^(lolice)$/i
 handler.limit = 1
+handler.register = true
 export default handler

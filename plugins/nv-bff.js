@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /bebito fiu fiu|bff|Bebito Fiu Fiu|Bff/
 handler.command = new RegExp
+handler.register = true
 export default handler

@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /No soy pati|no soy pati/
 handler.command = new RegExp
+handler.register = true
 export default handler

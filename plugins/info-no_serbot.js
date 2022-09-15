@@ -31,5 +31,6 @@ let buttonMessage= {
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = /^(jadibot|serbot|bots|subbots|getcode)/i
 handler.limit = 1
+handler.register = true
 export default handler
 

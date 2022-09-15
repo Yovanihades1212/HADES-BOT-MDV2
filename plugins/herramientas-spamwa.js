@@ -16,6 +16,7 @@ handler.help = ['spamwa <number>|<mesage>|<no of messages>']
 handler.tags = ['General']
 handler.command = /^spam(wa)?$/i
 handler.limit = 1
+handler.register = true
 handler.group = false
 handler.premium = false
 handler.private = true

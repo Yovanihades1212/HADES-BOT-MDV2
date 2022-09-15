@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /Homero chino|homero chino/
 handler.command = new RegExp
+handler.register = true
 export default handler

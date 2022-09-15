@@ -13,6 +13,7 @@ handler.help = ['kick @user']
 handler.tags = ['group']
 handler.command = /^(restrict|sacar|\-)$/i
 handler.limit = 1
+handler.register = true
 handler.group = true
 handler.admin = true
 handler.botAdmin = true

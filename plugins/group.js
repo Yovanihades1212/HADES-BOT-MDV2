@@ -106,6 +106,7 @@ handler.tags = ['main']
 handler.command = /^(paraGroup|paraGroup\?)$/i
 handler.limit = 1
 handler.exp = 50
+handler.register = true
 handler.fail = null
 export default handler
 

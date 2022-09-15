@@ -7,4 +7,5 @@ handler.help = ['', 'code'].map(v => 'qr' + v + ' <teks>')
 handler.tags = ['tools']
 handler.command = /^qr(code)?$/i
 handler.limit = 1
+handler.register = true
 export default handler

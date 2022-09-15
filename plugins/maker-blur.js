@@ -8,4 +8,5 @@ handler.help = ['blur','difuminar2']
 handler.tags = ['maker']
 handler.command = /^(blur|difuminar2)$/i
 handler.limit = 1
+handler.register = true
 export default handler

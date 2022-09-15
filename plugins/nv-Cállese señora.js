@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Cállese señora|Callese señora/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

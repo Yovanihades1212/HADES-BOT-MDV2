@@ -7,6 +7,7 @@ let handler = async (m, { conn, text, command }) => {
   handler.tags = ['anime']
   handler.help = ['helaila']
   handler.limit = 1
+  handler.register = true
   export default handler
   
   global.helaila = [

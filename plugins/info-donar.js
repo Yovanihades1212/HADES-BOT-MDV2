@@ -19,5 +19,5 @@ conn.sendHydrated(m.chat, str, wm, media, 'https://wa.me/5212411347465', 'ğ™²ğ
 
 handler.command = /^dona(te|si)|donar|apoyar|paypal|donating$/i
 handler.exp = 33
-
+handler.register = true
 export default handler

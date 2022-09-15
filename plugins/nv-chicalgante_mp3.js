@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /chica lgante|Chica lgante|Chicalgante|chicalgante|chical gante|Chical gante/
 handler.command = new RegExp
+handler.register = true
 export default handler

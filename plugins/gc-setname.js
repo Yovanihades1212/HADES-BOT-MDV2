@@ -13,6 +13,7 @@ handler.help = ['setname <text>']
 handler.tags = ['group']
 handler.command = /^(setname)$/i
 handler.limit = 1
+handler.register = true
 handler.group = true
 handler.admin = true
 export default handler

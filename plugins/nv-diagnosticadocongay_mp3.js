@@ -13,4 +13,5 @@ handler.customPrefix = /giagnosticadocongay|diagnosticado con gay|diagnosticado 
 handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
+handler.register = true
 export default handler

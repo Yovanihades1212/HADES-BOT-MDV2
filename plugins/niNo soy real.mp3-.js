@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /Oye Bot te amo|oye bot te amo/
 handler.command = new RegExp
+handler.register = true
 export default handler

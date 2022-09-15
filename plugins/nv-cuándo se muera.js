@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /cuando se muera|Cuando se muera/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

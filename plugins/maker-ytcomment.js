@@ -10,4 +10,5 @@ handler.help = ['ytcomment <comment>']
 handler.tags = ['maker'] 
 handler.command = /^(ytcomment)$/i
 handler.limit = 1
+handler.register = true
 export default handler

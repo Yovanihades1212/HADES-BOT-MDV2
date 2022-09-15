@@ -40,5 +40,6 @@ handler.help = ['infogrup']
 handler.tags = ['group']
 handler.command = /^(infogrupo|gro?upinfo|info(gro?up|gc))$/i
 handler.limit = 1
+handler.register = true
 handler.group = true
 export default handler

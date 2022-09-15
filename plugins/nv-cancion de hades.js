@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Cancion de hades|cancion de hades/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

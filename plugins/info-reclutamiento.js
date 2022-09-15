@@ -72,4 +72,5 @@ handler.help = ['owner', 'creator']
 handler.tags = ['info']
 handler.command = /^(reclutamiento)$/i
 handler.limit = 1
+handler.register = true
 export default handler

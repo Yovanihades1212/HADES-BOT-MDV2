@@ -25,4 +25,5 @@ handler.help = ['translate', 'traducir']
 handler.tags = ['General']
 handler.command = /^(tr(anslate)|traducir?)$/i
 handler.limit = 1
+handler.register = true
 export default handler

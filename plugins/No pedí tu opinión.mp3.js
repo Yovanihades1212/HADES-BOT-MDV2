@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /No pedí tu opinión|No pedí tu opinion/
 handler.command = new RegExp
+handler.register = true
 export default handler

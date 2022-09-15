@@ -12,5 +12,6 @@ ptt: true
 handler.customPrefix = /Calla maldita puta|C
 calla maldita puta/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

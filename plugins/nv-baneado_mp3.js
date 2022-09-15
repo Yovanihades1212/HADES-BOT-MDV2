@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /baneado|Baneado/
 handler.command = new RegExp
+handler.register = true
 export default handler

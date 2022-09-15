@@ -16,6 +16,7 @@ handler.help = ['tagall <mesaje>','invocar <mesaje>']
 handler.tags = ['group']
 handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i
 handler.limit = 1
+handler.register = true
 handler.admin = true
 handler.group = true
 export default handler

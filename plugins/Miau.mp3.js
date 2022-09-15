@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /Miau|miau/
 handler.command = new RegExp
+handler.register = true
 export default handler

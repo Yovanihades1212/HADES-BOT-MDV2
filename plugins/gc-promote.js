@@ -27,6 +27,7 @@ handler.help = ['*593xxx*','*@usuario*','*responder chat*'].map(v => 'promote ' 
 handler.tags = ['group']
 handler.command = /^(promote|daradmin|darpoder)$/i
 handler.limit = 1
+handler.register = true
 handler.group = true
 handler.admin = true
 handler.botAdmin = true

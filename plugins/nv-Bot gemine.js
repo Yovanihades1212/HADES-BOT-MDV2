@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /Bot gemine|bot gemine/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

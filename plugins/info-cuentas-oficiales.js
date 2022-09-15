@@ -24,4 +24,5 @@ conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/Yovanihades1212/HA
 handler.command = /^cuentasoficiales|cuentasoficiales\$/i
 handler.exp = 35
 handler.limit = 1
+handler.register = true
 export default handler

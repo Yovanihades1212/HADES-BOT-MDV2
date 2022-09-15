@@ -6,6 +6,7 @@ handler.help = ['Setdesc <text>']
 handler.tags = ['group']
 handler.command = /^setdesk|setdesc$/i
 handler.limit = 1
+handler.register = true
 handler.group = true
 handler.admin = true
 handler.botAdmin = true

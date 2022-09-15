@@ -18,6 +18,7 @@ handler.help = ['logos']
 handler.tags = ['nulis']
 handler.command = /^(logo|logos)$/i
 handler.limit = 1
+handler.register = true
 export default handler
 
 import formData from 'form-data'

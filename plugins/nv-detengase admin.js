@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /detengase admin|Detengase admin/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

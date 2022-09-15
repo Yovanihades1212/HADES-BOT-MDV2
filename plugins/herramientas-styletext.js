@@ -8,6 +8,7 @@ handler.tags = ['tools']
 handler.command = /^(style(text)?)$/i
 handler.limit = 1
 handler.exp = 0
+handler.register = true
 export default handler
 
 async function stylizeText(text) {

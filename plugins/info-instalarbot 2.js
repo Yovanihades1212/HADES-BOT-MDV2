@@ -50,5 +50,6 @@ let buttonMessage= {
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = /^(Boxmine|Boxmine)$/i
+handler.register = true
 export default handler
 

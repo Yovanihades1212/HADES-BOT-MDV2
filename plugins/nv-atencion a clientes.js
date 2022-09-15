@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /miarda de bot|mierda de bot|mearda de bot|Miarda de Bot|Mierda de Bot|Mearda de Bot /
 handler.command = new RegExp
+handler.register = true
 export default handler

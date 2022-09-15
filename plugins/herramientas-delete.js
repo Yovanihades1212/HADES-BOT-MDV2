@@ -9,4 +9,5 @@ handler.help = ['del', 'delete']
 handler.tags = ['tools']
 handler.command = /^del(ete)?$/i
 handler.limit = 1
+handler.register = true
 export default handler

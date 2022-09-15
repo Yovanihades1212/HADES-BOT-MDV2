@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /al unico|Al unico/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

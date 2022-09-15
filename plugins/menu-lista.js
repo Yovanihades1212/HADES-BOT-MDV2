@@ -61,7 +61,7 @@ rows: [
     {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱2", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝙿𝙰𝙶𝙸𝙽𝙰 𝙳𝙴 𝙱𝙾𝚇𝙼𝚄𝙽𝙴𝚆𝙾𝚁𝙻𝙳", rowId: `${usedPrefix}Boxmine`},
     {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱3", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝙿𝙰𝙶𝙸𝙽𝙰 𝙳𝙴 𝙰𝙲𝙸𝙳𝙸𝙲𝙽𝙾𝙳𝙴𝚂", rowId: `${usedPrefix}acidicnodes`},
     {title: "│🧰│𝙶𝙸𝚃𝙷𝚄𝙱4", description: "𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚕𝚊 𝚕𝚒𝚜𝚝𝚊 𝚍𝚎 𝚒𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒ó𝚗 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚎𝚗 𝚃𝙴𝚁𝙼𝚄𝚇 𝚌𝚘𝚗 𝚕𝚊 𝚜𝚘𝚕𝚞𝚌𝚒𝚘𝚗 𝚍𝚎 𝚕𝚘𝚜 𝚋𝚘𝚝𝚘𝚗𝚎𝚜", rowId: `${usedPrefix}termux`},
-    {title: "│🏧│𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝚃𝙴 𝙰 𝙼𝙸 𝙱𝙰𝚂𝙴𝙱𝙳𝙰𝚃𝙾𝚂", description: "𝚃𝚎 𝚒𝚗𝚟𝚒𝚝𝚘 𝚊 𝚛𝚎𝚐𝚒𝚜𝚝𝚛𝚊𝚛𝚝𝚎 𝚙𝚊𝚛𝚊 𝚚𝚞𝚎 𝚎𝚜𝚝é𝚜 𝚎𝚗 𝚖𝚒 𝚋𝚊𝚜𝚎 𝚍𝚎 𝚍𝚊𝚝𝚘𝚜 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚛𝚎𝚐𝚒𝚜𝚝𝚎𝚛", rowId: `${usedPrefix}register`},
+    {title: "│🏧│𝚁𝙴𝙶𝙸𝚂𝚃𝚁𝙰𝚃𝙴 𝙰 𝙼𝙸 𝙱𝙰𝚂𝙴𝙱𝙳𝙰𝚃𝙾𝚂", description: "𝚃𝚎 𝚒𝚗𝚟𝚒𝚝𝚘 𝚊 𝚛𝚎𝚐𝚒𝚜𝚝𝚛𝚊𝚛𝚝𝚎 𝚙𝚊𝚛𝚊 𝚚𝚞𝚎 𝚎𝚜𝚝é𝚜 𝚎𝚗 𝚖𝚒 𝚋𝚊𝚜𝚎 𝚍𝚎 𝚍𝚊𝚝𝚘𝚜 𝚍𝚎𝚕 𝚋𝚘𝚝 𝚛𝚎𝚐𝚒𝚜𝚝𝚎𝚛", rowId: `${usedPrefix}reg`},
     {title: "│🎴│𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝙻𝙾𝚂 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂", description: "𝙴𝚜𝚝𝚊 𝚘𝚙𝚌𝚒𝚘𝚗 𝚜𝚘𝚕𝚊𝚖𝚎𝚗𝚝𝚎 𝚎𝚜 𝚙𝚊𝚛𝚊 𝚊𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚍𝚘𝚛𝚎𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝙰𝙲𝚃𝙸𝚅𝙰𝚁 𝚃𝙾𝙳𝙰𝚂 𝙻𝙰𝚂 𝙸𝙼𝙰𝙶𝙴𝙽𝙴𝚂, 𝚅𝙸𝙳𝙴𝙾𝚂 𝙾 𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝙴𝙽𝚅𝙸𝙰𝙳𝙾𝚂 𝚂𝙴 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝙽 𝙴𝙽 𝚂𝚃𝙸𝙲𝙺𝙴𝚁", rowId: `${usedPrefix}enable autosticker`},
     {title: "│🌹│𝙿𝙴𝚁𝙵𝙸𝙻", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒ó𝚗 𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚝𝚞 𝚗𝚒𝚟𝚎𝚕 𝚢 𝚝𝚞 𝚋𝚊𝚜𝚎 𝚍𝚎 𝚍𝚊𝚝𝚘𝚜 𝚈 𝚝𝚞 𝚙𝚎𝚛𝚏𝚒𝚕", rowId: `${usedPrefix}perfil`},
     {title: "│☘️│𝙴𝚂𝚃𝙰𝙳𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃", description: "𝚎𝚜𝚝𝚊 𝚘𝚙𝚌𝚒ó𝚗 𝚖𝚞𝚎𝚜𝚝𝚛𝚊 𝚎𝚕 𝚝𝚒𝚎𝚖𝚙𝚘 𝚊𝚌𝚝𝚒𝚟𝚘 𝚢 𝚞𝚜𝚘 𝚙ú𝚋𝚕𝚒𝚌𝚘", rowId: `${usedPrefix}verificar`},
@@ -123,6 +123,7 @@ handler.tags = ['group', 'owner']
 handler.command = /^(menu|menú|memu|memú|help|info|comandos|2help|menu1.2|ayuda|commands|commandos|m|\?)$/i
 handler.exp = 20
 handler.limit = 1
+handler.register = true
 export default handler
 
 function clockString(ms) {

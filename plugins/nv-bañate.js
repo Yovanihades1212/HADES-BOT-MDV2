@@ -13,4 +13,5 @@ handler.customPrefix = /bañate|Bañate/i
 handler.command = new RegExp
 handler.fail = null
 handler.exp = 100
+handler.register = true
 export default handler

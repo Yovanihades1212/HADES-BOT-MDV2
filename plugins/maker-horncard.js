@@ -8,4 +8,5 @@ handler.help = ['hornycard', 'hornylicense']
 handler.tags = ['maker'] 
 handler.command = /^(horny(card|license))$/i 
 handler.limit = 1
+handler.register = true
 export default handler

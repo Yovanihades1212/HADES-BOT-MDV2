@@ -44,4 +44,5 @@ handler.help = ['ping']
 handler.tags = ['info']
 handler.command = /^(ping|speed|velocidad|rapidez|velocity)$/i
 handler.limit = 1
+handler.register = true
 export default handler

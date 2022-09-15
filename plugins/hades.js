@@ -5,6 +5,7 @@ let handler = async (m, { conn, text, command }) => {
   }
   handler.command = /^(Hades|hades)$/i
   handler.limit = 1
+  handler.register = true
   handler.tags = ['anime']
   handler.help = ['hades']
   export default handler

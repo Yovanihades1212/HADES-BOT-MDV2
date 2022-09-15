@@ -24,5 +24,5 @@ conn.sendHydrated(m.chat, str, wm, media, 'https://wa.me/5212411347465', 'ğ™²ğ
 
 handler.command = /^linkgc|grupos|gruposgatabot|gatabotgrupos|gruposdegatabot|groupofc|gruposgb|grupogb|groupgb$/i
 handler.exp = 33
-
+handler.register = true
 export default handler

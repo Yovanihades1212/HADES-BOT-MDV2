@@ -50,6 +50,7 @@ handler.help = ['infobot']
 handler.tags = ['info', 'tools']
 handler.command = /^(infobot|informacionbot)$/i
 handler.limit = 1
+handler.register = true
 export default handler
 
 function clockString(ms) {
