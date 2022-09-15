@@ -17,7 +17,7 @@ let handler = async (m, { isPrems }) => {
 handler.help = ['daily']
 handler.tags = ['xp']
 handler.command = ['daily', 'claim'] 
-
+handler.register = true
 
 export default handler
 

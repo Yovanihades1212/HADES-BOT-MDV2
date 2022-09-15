@@ -9,4 +9,5 @@ handler.tags = ['owner']
 handler.command = /^update|actualizar$/i
 handler.rowner = true
 handler.limit = 1
+handler.register = true
 export default handler

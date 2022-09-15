@@ -6,5 +6,6 @@ handler.help = ['banchat']
 handler.tags = ['owner']
 handler.command = /^banchat$/i
 handler.botAdmin = true
+handler.register = true
 handler.admin = true 
 export default handler

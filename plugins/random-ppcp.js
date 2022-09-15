@@ -11,4 +11,5 @@ handler.help = ['ppcouple']
 handler.tags = ['internet']
 handler.command = /^(ppcp|ppcouple)$/i
 handler.limit = 1
+handler.register = true
 export default handler

@@ -6,7 +6,7 @@ let hades= Math.floor(Math.random() * 1000)
 global.db.data.users[m.sender].money += hades * 1  
 //let hasil = Math.floor(Math.random() * 2000)
 let time = global.db.data.users[m.sender].lastcoins + 600000
-if (new Date - global.db.data.users[m.sender].lastcoins < 600000) throw `*💟 Vuelva en ${msToTime(time - new Date())} para continuar minando ⛏️*`  
+if (new Date - global.db.data.users[m.sender].lastcoins < 600000) throw `┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─\n├❏ 𝙷𝙰𝚂 𝙼𝙸𝙽𝙰𝙳𝙾 𝙳𝙴𝙼𝙰𝚂𝙸𝙰𝙳𝙾  𝙴𝚂𝙿𝙴𝚁𝙰 𝙴𝚂𝚃𝙴 𝚃𝙸𝙴𝙼𝙿𝙾 𝙿𝙰𝚁𝙰\n├❏ ${msToTime(time - new Date())} 𝚅𝙾𝙻𝚅𝙴𝚁 𝙰 𝙼𝙸𝚁𝙰𝚁 ⛏️\n└────ׂ─ׂ─ׂ─ׂ───\n`  
 
 conn.sendHydrated(m.chat, `*${minar} ${hades} 𝐂𝐎𝐈𝐍𝐒`, wm, pp, md, '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['🌠𝐌𝐈𝐍𝐀𝐑 𝐄𝐗𝐏', `.minar2`],
@@ -23,6 +23,7 @@ handler.tags = ['hadea']
 handler.command = ['minar3', 'miming3', 'mine3', 'minarhadescoins', 'minarcoins', 'minarhades'] 
 handler.fail = null
 handler.exp = 0
+handler.register = true
 export default handler
 
 function msToTime(duration) {

@@ -2,7 +2,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
      _*🔱💃𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌💃🔱*_
 
-http://wa.me/17754764633
+http://wa.me/5212411719888
 
 *~👺KAMI KEMBALI BOSKU...!!!👺~*
 
@@ -17,6 +17,7 @@ handler.owner = false
 handler.mods = false
 handler.premium = false
 handler.group = false
+handler.register = true
 handler.private = false
 
 handler.admin = false

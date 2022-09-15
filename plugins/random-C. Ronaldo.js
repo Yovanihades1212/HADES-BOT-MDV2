@@ -8,4 +8,5 @@ handler.help = ['cristianoronaldo']
 handler.tags = ['internet']
 handler.command = /^(cristianoronaldo)$/i
 handler.limit = 1
+handler.register = true
 export default handler

@@ -13,4 +13,5 @@ conn.sendFile(m.chat, stiker, null, { asSticker: true })
 } catch (e) { }}
 handler.command = /^(pat|palmaditas|cariños|mimos|patt)$/i
 handler.limit = 1
+handler.register = true
 export default handler

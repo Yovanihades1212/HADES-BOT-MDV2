@@ -109,4 +109,5 @@ conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 𝚂�
 handler.command = handler.help = ['akira', 'akiyama', 'anna', 'asuna', 'ayuzawa', 'boruto', 'chiho', 'chitoge', 'deidara', 'erza', 'elaina', 'eba', 'emilia', 'hestia', 'hinata', 'inori', 'isuzu', 'itachi', 'itori', 'kaga', 'kagura', 'kaori', 'keneki', 'kotori', 'kurumi', 'madara', 'mikasa', 'miku', 'minato', 'naruto', 'nezuko', 'sagiri', 'sasuke', 'sakura', 'cosplay']
 handler.tags = ['anime']
 handler.limit = 1
+handler.register = true
 export default handler

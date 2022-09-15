@@ -8,4 +8,5 @@ handler.help = ['messi']
 handler.tags = ['internet']
 handler.command = /^(messi)$/i
 handler.limit = 1
+handler.register = true
 export default handler

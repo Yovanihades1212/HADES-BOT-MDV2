@@ -11,6 +11,7 @@ handler.owner = false
 handler.mods = false
 handler.premium = true
 handler.group = false
+handler.register = true
 handler.private = false
 
 handler.admin = false

@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /que rico|Que rico/
 handler.command = new RegExp
+handler.register = true
 export default handler

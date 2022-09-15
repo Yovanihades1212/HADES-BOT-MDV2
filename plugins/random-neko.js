@@ -9,6 +9,7 @@ handler.command = /^(neko)$/i
 handler.tags = ['anime']
 handler.help = ['neko']
 handler.limit = 1
+handler.register = true
 export default handler
 function pickRandom(list) {
 return list[Math.floor(Math.random() * list.length)]

@@ -10,4 +10,5 @@ handler.command = /^update|actualizar$/i
 handler.rowner = true 
 handler.exp = 500
 handler.limit = 1
+handler.register = true
 export default handler

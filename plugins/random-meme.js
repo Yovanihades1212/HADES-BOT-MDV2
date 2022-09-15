@@ -9,6 +9,7 @@ handler.help = ['meme']
 handler.tags = ['random']
 handler.command = /^(meme)$/i
 handler.limit = 1
+handler.register = true
 export default handler
 
 function pickRandom(list) {

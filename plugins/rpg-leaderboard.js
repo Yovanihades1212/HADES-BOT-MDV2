@@ -46,6 +46,7 @@ handler.command = ['leaderboard', 'lb', 'top']
 handler.fail = null
 handler.exp = 0
 handler.limit = 1
+handler.register = true
 export default handler
 
 function sort(property, ascending = true) {

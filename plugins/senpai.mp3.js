@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /senpai|Senpai/
 handler.command = new RegExp
+handler.register = true
 export default handler

@@ -27,4 +27,5 @@ conn.sendFile(m.chat, `https://api.lolhuman.xyz/api/ttp?apikey=9b817532fadff8fc7
 handler.command = handler.help = ['ttp', 'ttp2', 'ttp3', 'ttp4', 'ttp5', 'attp', 'attp2']
 handler.tags = ['sticker']
 handler.limit = 1
+handler.register = true
 export default handler

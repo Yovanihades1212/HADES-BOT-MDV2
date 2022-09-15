@@ -11,5 +11,6 @@ ptt: true
 }
 handler.customPrefix = /yutki|Yutki/
 handler.command = new RegExp
+handler.register = true
 export default handler
 

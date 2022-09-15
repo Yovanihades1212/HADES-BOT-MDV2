@@ -24,4 +24,5 @@ handler.help = ['addxp <@user>']
 handler.tags = ['xp']
 handler.command = ['añadirxp'] 
 handler.rowner = true
+handler.register = true
 export default handler

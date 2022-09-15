@@ -15,5 +15,6 @@ handler.tags = ['owner']
 handler.command = /^(comunicarpv|anunciopv|annunciopv|broadcastchats?|bcc(hats?)?)$/i
 handler.exp = 500
 handler.limit = 1
+handler.register = true
 handler.rowner = true
 export default handler

@@ -13,6 +13,7 @@ handler.help = ['banuser']
 handler.tags = ['owner']
 handler.command = /^banuser$/i
 handler.limit = 1
+handler.register = true
 handler.group = true
 handler.admin = true 
 export default handler

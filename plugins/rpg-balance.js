@@ -11,5 +11,6 @@ m.reply(`
 }
 handler.help = ['bal']
 handler.tags = ['xp']
+handler.register = true
 handler.command = ['bal', 'diamantes', 'diamond', 'balance'] 
 export default handler

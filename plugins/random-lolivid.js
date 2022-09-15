@@ -5,4 +5,5 @@ handler.help = ['lolivid']
 handler.tags = ['random']
 handler.command = /^(lolivid|lolivideos|lolívid)$/i
 handler.limit = 1
+handler.register = true
 export default handler

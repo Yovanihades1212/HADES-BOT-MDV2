@@ -40,7 +40,7 @@ let user = global.db.data.users[m.sender]
 
 handler.help = ['levelup']
 handler.tags = ['xp']
-
+handler.register = true
 handler.command = ['nivel', 'lvl', 'levelup', 'level'] 
 
 export default handler

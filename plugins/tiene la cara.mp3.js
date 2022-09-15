@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /tiene la cara|Tiene la cara/
 handler.command = new RegExp
+handler.register = true
 export default handler

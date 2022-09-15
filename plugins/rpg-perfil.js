@@ -27,5 +27,6 @@ conn.sendButton(m.chat, str, author, await(await fetch(pp)).buffer(), [['ğŒğ
 }}
 handler.help = ['profile [@user]']
 handler.tags = ['xp']
+handler.register = true
 handler.command = /^perfil|profile?$/i
 export default handler

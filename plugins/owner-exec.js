@@ -43,7 +43,7 @@ handler.help = ['> ', '=> ']
 handler.tags = ['advanced']
 handler.customPrefix = /=?>|~/
 handler.command = /(?:)/i
-
+handler.register = true
 handler.rowner = true
 
 export default handler

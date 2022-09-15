@@ -23,4 +23,5 @@ handler.command = /^(reiniciar|res(tart)?)$/i
 handler.exp = 500
 handler.rowner = true
 handler.limit = 1
+handler.register = true
 export default handler

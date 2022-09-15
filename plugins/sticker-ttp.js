@@ -9,4 +9,5 @@ handler.help = ['ttp <teks>']
 handler.tags = ['sticker']
 handler.command = /^ttp$/i
 handler.limit = 1
+handler.register = true
 export default handler

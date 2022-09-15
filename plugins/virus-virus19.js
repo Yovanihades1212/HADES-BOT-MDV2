@@ -9,6 +9,7 @@ handler.command = /^(virtex19)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = true
+handler.register = true
 handler.group = false
 handler.private = false
 

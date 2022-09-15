@@ -19,4 +19,5 @@ handler.help = ['kpop'].map(v => v + ' <query>')
 handler.tags = ['image']
 handler.command = /^(kpop)$/i
 handler.limit = 1
+handler.register = true
 export default handler

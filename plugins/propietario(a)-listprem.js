@@ -22,4 +22,5 @@ handler.help = ['premlist']
 handler.tags = ['owner']
 handler.command = /^(listprem|premlist)$/i
 handler.limit = 1
+handler.register = true
 export default handler

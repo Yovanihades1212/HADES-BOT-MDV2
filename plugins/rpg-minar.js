@@ -24,6 +24,8 @@ handler.tags = ['diamantes']
 handler.command = ['minar', 'miming3', 'mine3', 'minardiamantes', 'minargemas', 'minardiamante'] 
 handler.fail = null
 handler.exp = 0
+handler.register = true
+handler.register = true
 export default handler
 
 function msToTime(duration) {

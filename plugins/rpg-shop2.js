@@ -28,7 +28,7 @@ await conn.sendHydrated(m.chat, hades, wm, null, md, '𝙶𝙸𝚃𝙷𝚄𝙱',
 handler.help = ['Buy', 'Buyall']
 handler.tags = ['xp']
 handler.command = ['buy2', 'buyall2'] 
-
+handler.register = true
 handler.disabled = false
 
 export default handler

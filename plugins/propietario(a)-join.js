@@ -21,4 +21,5 @@ handler.tags = ['premium']
 handler.exp = 50
 handler.command = /^unete|join|nuevogrupo|unir|unite|unirse|entra|entrar$/i 
 handler.limit = 1
+handler.register = true
 export default handler

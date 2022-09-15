@@ -9,4 +9,5 @@ handler.help = ['blackpink']
 handler.tags = ['internet']
 handler.command = /^(blackpink)$/i
 handler.limit = 1
+handler.register = true
 export default handler

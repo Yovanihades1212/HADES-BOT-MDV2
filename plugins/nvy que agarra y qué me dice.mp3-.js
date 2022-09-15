@@ -11,4 +11,5 @@ ptt: true
 }
 handler.customPrefix = /y que agarra y qué me dice|Y que agarra y qué me dice/
 handler.command = new RegExp
+handler.register = true
 export default handler

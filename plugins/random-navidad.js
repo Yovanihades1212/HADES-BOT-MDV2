@@ -10,4 +10,5 @@ handler.help = ['navidad']
 handler.tags = ['internet']
 handler.command = /^(navidad)$/i
 handler.limit = 1
+handler.register = true
 export default handler

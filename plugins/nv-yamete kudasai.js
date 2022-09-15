@@ -11,6 +11,7 @@ ptt: true
 }
 handler.customPrefix = /Yamete|yamete|Yamete kudasai|yamete kudasai/
 handler.command = new RegExp
+handler.register = true
 export default handler
 
 

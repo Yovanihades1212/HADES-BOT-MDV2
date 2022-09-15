@@ -15,5 +15,6 @@ handler.tags = ['owner']
 handler.command = /^(comunicar|comunicado|broadcastall|bc)$/i
 handler.rowner = true
 handler.limit = 1
+handler.register = true
 handler.exp = 500
 export default handler

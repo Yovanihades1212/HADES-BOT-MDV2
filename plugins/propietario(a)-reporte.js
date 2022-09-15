@@ -20,4 +20,5 @@ handler.tags = ['info']
 handler.exp = 25 
 handler.command = /^(report|request|reporte|bugs|bug|report-owner|reportes|reportar)$/i 
 handler.limit = 1
+handler.register = true
 export default handler

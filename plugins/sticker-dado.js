@@ -14,4 +14,5 @@ handler.help = ['dado']
 handler.tags = ['game']
 handler.command = ['dado', 'dados'] 
 handler.limit = 1
+handler.register = true
 export default handler

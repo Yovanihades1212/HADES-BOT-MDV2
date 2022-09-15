@@ -18,5 +18,6 @@ handler.command = /^(comunicargrupo|comunicadogrupo|comunicargrupos|comunicadogr
 handler.rowner = true
 handler.exp = 500
 handler.limit = 1
+handler.register = true
 //handler.owner = true
 export default handler
