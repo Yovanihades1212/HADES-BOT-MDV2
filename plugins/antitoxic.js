@@ -23,4 +23,4 @@ export async function before(m, { isAdmin, isBotAdmin, isOwner }) {
        //await this.updateBlockStatus(m.sender, 'block')
     }
     return !1
-}
+} 
