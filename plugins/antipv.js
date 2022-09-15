@@ -15,4 +15,4 @@ export async function before(m, { isAdmin, isBotAdmin, isOwner, isROwner }) {
        await this.updateBlockStatus(m.chat, 'block')
     }
     return !1
-}
+} 
