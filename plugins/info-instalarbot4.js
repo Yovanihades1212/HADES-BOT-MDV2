@@ -14,7 +14,7 @@ let texto1 = `
 ├❏https://youtu.be/zJSmBlNWah0
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「🍁Archivo del bot🍁」
-├❏https://www.mediafire.com/file/35ocnr07e0615n0/OFC-HADES-BOT.zip/file
+├❏https://www.mediafire.com/file/h9x1bgb79vmllkn/OFC-HADES-BOT.zip/file
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「NÚMERO DEL CREADOR 」
 ├❏http://wa.me/5212411347465
