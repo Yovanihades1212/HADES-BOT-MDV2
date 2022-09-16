@@ -39,7 +39,7 @@ let texto1 = `
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「☘️Funciona bien esto es temporal hasta que salga una nueva versión de baileys ya que la versión "^4.4.0", aún no funciona para los botones💎
-└────ׂ─ׂ─ׂ─ׂ───`
+└────ׂ─ׂ─ׂ─ׂ─── `
 let buttonMessage= {
 'document': { url: `http://wa.me/5212411347465` },
 'mimetype': `application/${document}`,
