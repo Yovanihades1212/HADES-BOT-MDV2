@@ -146,9 +146,17 @@ if (!isROwner) {
 global.dfail('rowner', m, conn)
 throw false
 }
-bot.antiPrivate = isEnable
+bot.antifakes = isEnable
 break
-case 'antitoxic':
+case 'antifakes':
+if (m.isGroup) {
+if (!(isAdmin || isOwner)) {
+global.dfail('admin', m, conn)
+throw false
+}}
+bot.antifakes = isEnable
+break
+case 'antifakes':
 if (m.isGroup) {
 if (!(isAdmin || isOwner)) {
 global.dfail('admin', m, conn)
