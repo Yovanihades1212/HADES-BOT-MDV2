@@ -21,7 +21,6 @@ Bot terminado no recibirá más actualizaciones ✨
 
 ###🌱𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗☘️
 ```bash
-POR EL MOMENTO NO ESTÁ DISPONIBLE PARA TERMUX 
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇」
 ├❏pkg update && pkg upgrade
 ├❏pkg install git -y
