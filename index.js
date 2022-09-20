@@ -26,10 +26,10 @@ say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.8.9
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
+[•]-Owner : Deyner
 [•]-GRACIAS POR USAR LE BOT DE HADES 
 [•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
+[•]-CERRADO EL BOT Deyner 
 |< ================================================== >|`, {
   font: 'console',
   align: 'center',
