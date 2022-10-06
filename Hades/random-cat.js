@@ -16,3 +16,4 @@ handler.tags = ['random']
 handler.command = /^cat$/i
 handler.fail = null
 export default handler
+
