@@ -137,11 +137,11 @@ conn.ev.off('connection.update', conn.connectionUpdate)
 conn.ev.off('creds.update', conn.credsUpdate)
 }
   
-conn.welcome = '╭─────°.♡.°‧─────\n│⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍\n๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ @user\n💖 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳@\n│🤴ᩭ✎𝙽Ú𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁\n│📔ᩭ✎http://wa.me/5212411347465\n│📚ᩭ✎𝙴𝙽 𝙴𝚂𝚃𝙴 𝙶𝚁𝚄𝙿𝙾 𝙿𝚄𝙴𝙳𝙴𝚂 𝙴𝙽𝙲𝙾𝙽𝚃𝚁𝙰𝚁\n│🍀ᩭ✎𝙰𝙼𝙸𝚂𝚃𝙰𝙳𝙴𝚂\n│🤝ᩭ✎𝙰𝙼𝙸𝙶𝙾𝚂\n│❤️📚ᩭ✎𝙳𝙴𝚂𝙼𝙰𝙳𝚁𝙴│◦➛😇ᩭ✎𝙲𝙾𝚃𝙾𝚁𝚁𝙴𝙾 𝚈 𝙼Á𝚂\n│⁉️ᩭ✎𝙰𝚅𝙸𝚂𝙾 𝙸𝙼𝙿𝙾𝚁𝚃𝙰𝙽𝚃𝙴:\n𝙿𝚘𝚛 𝚏𝚊𝚟𝚘𝚛 𝙻𝚎𝚎 𝚕𝚊𝚜 𝚛𝚎𝚐𝚕𝚊𝚜 𝚍𝚎𝚕 𝚐𝚛𝚞𝚙𝚘 𝚙𝚊𝚛𝚊 𝚚𝚞𝚎 𝚎𝚟𝚒𝚝𝚎𝚜 𝚜𝚎𝚛 𝚎𝚕𝚒𝚖𝚒𝚗𝚊𝚍𝚘 𝚢 𝚎𝚟𝚒𝚝𝚎𝚜 𝚝𝚎𝚗𝚎𝚛 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚊𝚜 𝚌𝚘𝚗 𝚌𝚛𝚎𝚊𝚍𝚘𝚛 𝚍𝚎𝚕 𝚐𝚛𝚞\n│@desc\n│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈\n╰────────────┈⊷'
+conn.welcome = '╭─────°.♡.°‧─────\n│⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍\n๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ @user\n💖 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳@\n│🤴ᩭ✎𝙽Ú𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁\n│📔ᩭ✎http://wa.me/593969804746\n│📚ᩭ✎En este grupo puedes encontrar:\n│🍀ᩭ✎𝙰𝙼𝙸𝚂𝚃𝙰𝙳𝙴𝚂\n│🤝ᩭ✎𝙰𝙼𝙸𝙶𝙾𝚂\n│❤️📚ᩭ✎𝙳𝙴𝚂𝙼𝙰𝙳𝚁𝙴│◦➛😇ᩭ✎𝙲𝙾𝚃𝙾𝚁𝚁𝙴𝙾 𝚈 𝙼Á𝚂\n│⁉️ᩭ✎𝙰𝚅𝙸𝚂𝙾 𝙸𝙼𝙿𝙾𝚁𝚃𝙰𝙽𝚃𝙴:\n POR FAVOR LEER GRUPO Y EVITE SER EXPULSADO CRVRG\n│@desc\n│◦➛ꪝɪℓℓ  👻🖤\n╰────────────┈⊷'
 
-conn.bye = '╭─────°.♡.°‧─────\n│@user\n│📚ᩭ✎𝐒𝐚𝐥𝐢ó 𝐝𝐞𝐥 𝐠𝐫𝐮𝐩𝐨 𝐧𝐢 𝐦𝐨𝐝𝐨 𝐪𝐮𝐞 𝐭𝐞 𝐯𝐚𝐲𝐚 𝐛𝐢𝐞𝐧 𝐇𝐚𝐬𝐭𝐚 𝐥𝐚 𝐩𝐫ó𝐱𝐢𝐦𝐚 𝐪𝐮𝐞 𝐃𝐢𝐨𝐬 𝐭𝐞 𝐛𝐞𝐧𝐝𝐢𝐠𝐚\n│🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘\n╰────────────┈⊷️'
-conn.spromote = '@user 𝚂𝙴 𝚂𝚄𝙼𝙰 𝙰𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴'
-conn.sdemote =  '@user n𝙰𝙱𝙰𝙽𝙳𝙾𝙽𝙰 𝙴𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙳𝙼𝙸𝙽𝚂'
+conn.bye = '╭─────°.♡.°‧─────\n│@user\n│📚ᩭ✎Adiós CRVRG,Ni tu EX ni nosotros te queríamos aquí MMVRG\n│ꪝɪℓℓ  👻🖤\n╰────────────┈⊷️'
+conn.spromote = '@user Se une a los poderes ADM 🥵'
+conn.sdemote =  '@user Abandona a los poderes ya q vale vrg🥱'
 conn.sSubject = '@subject\n│◦➛📚ᩭ✎𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾'
 conn.sRevoke = '@desc\n│◦➛📚ᩭ✎𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙻𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾'
 conn.sRevoke = '@revoke\n│◦➛📚ᩭ✎𝚂𝙴 𝙷𝙰 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝙳𝙾 𝙴𝙻 𝙻𝙸𝙽𝙺 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾!!'
