@@ -3,23 +3,23 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
 ╭─────°.♡.°‧─────
-│⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍
-│Wa.me/5212412377467 (BOT)
-│Wa.me/5212411261883 (BOT) 
-│Wa.me/5212411719888 (CREADOR)
-│Wa.me/5212411347465 (CREADOR)
+ꪝɪℓℓ  👻🖤
+│Wa.me/593999677026 (BOT)
+│Wa.me/593999677026 (BOT) 
+│Wa.me/593969804746 (CREADOR)
+│Wa.me/593969804746 (CREADOR)
 ╰─────°.♡.°‧─────`.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/Yovanihades1212/HADES-BOT-MDV2` },
+'document': { url: `https://github.com/Haxixe/HADES-BOT-MDV2` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
+'fileName': `ꪝɪℓℓ  👻🖤`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2',
+'mediaUrl': 'https://github.com/Haxixe/HADES-BOT-MDV2',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
